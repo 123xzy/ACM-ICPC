@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\桌面\c++或c案例\acm1009\acm1009\源.cpp(28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ACM1009.vcxproj -> E:\桌面\c++或c案例\ACM1009\Debug\ACM1009.exe
+  ACM1009.vcxproj -> E:\桌面\c++或c案例\ACM1009\Debug\ACM1009.pdb (Partial PDB)

@@ -1,0 +1,3 @@
+﻿  源.cpp
+e:\桌面\c++或c案例\acm1297（大数相加、递推）\acm1297（大数相加、递推）\源.cpp(34): error C2664: “int add(char [],char [])”: 无法将参数 1 从“int”转换为“char []”
+  e:\桌面\c++或c案例\acm1297（大数相加、递推）\acm1297（大数相加、递推）\源.cpp(34): note: 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换

@@ -1,0 +1,5 @@
+﻿  源.cpp
+e:\桌面\c++或c案例\acm1420（快速幂）\acm1420（快速幂）\源.cpp(74): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\桌面\c++或c案例\acm1420（快速幂）\acm1420（快速幂）\源.cpp(83): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  ACM1420（快速幂）.vcxproj -> E:\桌面\c++或c案例\ACM1420（快速幂）\Debug\ACM1420（快速幂）.exe
+  ACM1420（快速幂）.vcxproj -> E:\桌面\c++或c案例\ACM1420（快速幂）\Debug\ACM1420（快速幂）.pdb (Partial PDB)

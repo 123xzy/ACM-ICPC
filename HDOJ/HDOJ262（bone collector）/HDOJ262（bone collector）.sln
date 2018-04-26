@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HDOJ262（bone collector）", "HDOJ262（bone collector）\HDOJ262（bone collector）.vcxproj", "{73B9D34E-025E-4D16-830A-BFD50675CBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B9D34E-025E-4D16-830A-BFD50675CBEC}.Debug|x64.ActiveCfg = Debug|x64
+		{73B9D34E-025E-4D16-830A-BFD50675CBEC}.Debug|x64.Build.0 = Debug|x64
+		{73B9D34E-025E-4D16-830A-BFD50675CBEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{73B9D34E-025E-4D16-830A-BFD50675CBEC}.Debug|x86.Build.0 = Debug|Win32
+		{73B9D34E-025E-4D16-830A-BFD50675CBEC}.Release|x64.ActiveCfg = Release|x64
+		{73B9D34E-025E-4D16-830A-BFD50675CBEC}.Release|x64.Build.0 = Release|x64
+		{73B9D34E-025E-4D16-830A-BFD50675CBEC}.Release|x86.ActiveCfg = Release|Win32
+		{73B9D34E-025E-4D16-830A-BFD50675CBEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60A32CE4-8C0C-496D-BDDC-EAA481091003}
+	EndGlobalSection
+EndGlobal

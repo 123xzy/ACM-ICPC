@@ -1,0 +1,5 @@
+﻿  源.cpp
+e:\桌面\c++或c案例\acm1087(dp)\acm1087(dp)\源.cpp(15): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+e:\桌面\c++或c案例\acm1087(dp)\acm1087(dp)\源.cpp(19): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  ACM1087(DP).vcxproj -> E:\桌面\c++或c案例\ACM1087(DP)\Debug\ACM1087(DP).exe
+  ACM1087(DP).vcxproj -> E:\桌面\c++或c案例\ACM1087(DP)\Debug\ACM1087(DP).pdb (Partial PDB)
